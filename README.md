@@ -1,1 +1,1 @@
-# oblig1
+# vigdisj.oblig1
